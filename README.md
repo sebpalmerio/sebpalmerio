@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebpalmerio
-- 👀 I’m interested in all things data. Hoping to spend my free time (if any) on a data engineering project TBD
-- 🌱 I’m currently learning how to centre a div... Still no luck
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in math
+- 🌱 I’m currently learning how to do math
+- 💞️ I’m looking to collaborate on math
 - 📫 How to reach me: sebestien.com
 
 <!---
